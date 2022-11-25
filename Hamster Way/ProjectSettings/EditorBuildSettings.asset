@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Extra/GameOpen.unity
+    guid: d29ecc9402319ea40a6d8438881f998b
+  - enabled: 1
+    path: Assets/Scenes/Lvl/ClassicLvlEducation.unity
+    guid: 77be15511f2a6da40953b793181f53eb
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 3d3e54b35c7ec914da5ffa682791c24e
+  - enabled: 1
+    path: Assets/Scenes/Menu/LvlPullMenu.unity
+    guid: afaf219006900e440928d18deccec61c
+  - enabled: 1
+    path: Assets/Scenes/Menu/EasyClassicLvlMenu.unity
+    guid: 195d78d322789d94a87cf93bd46e3b3e
+  - enabled: 1
+    path: Assets/Scenes/Menu/ClassicLvlMenu.unity
+    guid: 696ad8f6cd2038d46845877de18f6fac
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/CreatureSkinShop.unity
+    guid: 12d83add5c5590041ad8e058f5ca86f0
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/CurrencyShop.unity
+    guid: 5f5055dd04a9b0245a9e5555423efa0b
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/ExtraShop.unity
+    guid: 07a9eaaf08dd14efc97f8408ede39206
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/ChestScene.unity
+    guid: f9ac52ff0390f4e4a929273c6c76781f
+  - enabled: 1
+    path: Assets/Scenes/Extra/GameSettings.unity
+    guid: 7f61ef96a5f3fda44b4a41d0375b79b2
+  - enabled: 1
+    path: Assets/Scenes/Lvl/ClassicLvl.unity
+    guid: d387a3791ec3ee74ab38674ba9e657d7
+  - enabled: 1
+    path: Assets/Scenes/Menu/MatchingCardsLvlMenu.unity
+    guid: 8a33bda6574b4914ca2c7f1ecdcb3fe2
+  - enabled: 1
+    path: Assets/Scenes/Lvl/MatchingCardsLvl.unity
+    guid: 889bd0e1416c910419063b51f7e52d1a
+  m_configObjects: {}

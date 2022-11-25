@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dd272e1529fe90143be56ab158c7c71e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LowChestTexture: {fileID: 21300000, guid: 2399c16a2c9906c4496adcc20765694f, type: 3}
+  - MiddleChestTexture: {fileID: 21300000, guid: 9a25aa20605297140a376ea3b9859f0e, type: 3}
+  - HighChestTexture: {fileID: 21300000, guid: 6f78a68f11d2c604fb68c30fd82e5f66, type: 3}
+  - MoneyTexture: {fileID: 21300000, guid: 37aac0b568858704a91531c1eead2b04, type: 3}
+  - EliteMoneyTexture: {fileID: 21300000, guid: 4c3b86dcbc88c674c904ecb567a555d3, type: 3}
+  - PrizeIcon: {instanceID: 0}
+  - VisualBlock: {instanceID: 0}
+  - NumberPrize: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

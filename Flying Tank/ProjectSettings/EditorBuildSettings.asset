@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Extra/GameOpen.unity
+    guid: d29ecc9402319ea40a6d8438881f998b
+  - enabled: 1
+    path: Assets/Scenes/Extra/GameSettings.unity
+    guid: 7f61ef96a5f3fda44b4a41d0375b79b2
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/Money&EliteMoneyShop.unity
+    guid: f7ad5235b1c04204c87eb6615d20a7f8
+  - enabled: 1
+    path: Assets/Scenes/GameEconomy/SkinsShop.unity
+    guid: 12d83add5c5590041ad8e058f5ca86f0
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl.unity
+    guid: f93f689c5e459e04f8d5055f79aa1eae
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 3d3e54b35c7ec914da5ffa682791c24e
+  - enabled: 1
+    path: Assets/Scenes/Menu/LvlMenu.unity
+    guid: 195d78d322789d94a87cf93bd46e3b3e
+  m_configObjects: {}

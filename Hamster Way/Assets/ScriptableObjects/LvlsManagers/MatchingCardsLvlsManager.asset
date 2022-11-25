@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee4a40d3f6ff6a419a876e781f3972b, type: 3}
+  m_Name: MatchingCardsLvlsManager
+  m_EditorClassIdentifier: 
+  LvlNumber: 14
+  GameSpace:
+  - {fileID: 5445200482679635605, guid: 5b8152cc0c6172049b16ccf6285e5989, type: 3}
+  - {fileID: 2764613138551596353, guid: 8b222c4b00f8acb4792deb589bc8a33d, type: 3}
+  - {fileID: 6883173257846904920, guid: dfd212e85bb71304782e5659ce1ce4cd, type: 3}
+  - {fileID: 279252039029373016, guid: 29c14f7313d8e7f4aa746586c99fc64b, type: 3}
+  - {fileID: 4892349282638680556, guid: 62775be4d6bec064caa44d3fa48456c5, type: 3}
+  - {fileID: 3704087923589364104, guid: 9dd5cd91a54a522499efd2ee7e445549, type: 3}
+  - {fileID: 2768338554701047144, guid: 50cc5e3c51bc8c54a8d56c92aa63bb15, type: 3}
+  - {fileID: 3712406806595022442, guid: 1906d33e9a284704b844ce699471d2c4, type: 3}
+  - {fileID: 1488687907357675331, guid: 5eeb68ef2820fa142b4fe4ba9cf7140f, type: 3}
+  - {fileID: 2804932181667300565, guid: a7f4533924428314bb2871b02d935305, type: 3}
+  - {fileID: 5298738329024746008, guid: c4222aa88c1c1454c8e6edb2af40fb87, type: 3}
+  - {fileID: 4490613666370362188, guid: e1e12d86c859be740b8e7c2bdb4b3bc4, type: 3}
+  - {fileID: 3016059243312214628, guid: 331d5cb16e969214ba07b83e17b4b06c, type: 3}
+  - {fileID: 5999058438750794964, guid: 3c86c0da567228349bc93fc34fa7487d, type: 3}
+  OpeningForLvl: 0c000000120000001d0000002a0000003800000048000000600000007a00000097000000b6000000e0000000000100002001000040010000
+  EasyFactorForPrize: 1
+  MiddleFactorForPrize: 2
+  HardFactorForPrize: 3.5
+  EasyFactorForOpening: 3.5
+  MiddleFactorForOpening: 2.6
+  HardFactorForOpening: 1.5
+  FactorForOneHeartsPack: 0.15
+  FactorForTwoHeartsPacks: 0.3
+  FactorForTreeHeartsPacks: 0.5
+  PrizeFactorForEasy: 1
+  PrizeFactorForMiddle: 2
+  PrizeFactorForHard: 4
+  HeartsForTheFirstHeartsPack: 0100000001000000010000000200000002000000020000000300000003000000030000000400000004000000040000000500000005000000
+  HeartsForTheSecondHeartsPack: 020000000200000003000000030000000400000004000000060000000600000008000000080000000a0000000a0000000d0000000d000000
+  HeartsForTheThirdHeartsPack: 03000000040000000500000006000000070000000a0000000c0000000e0000001100000014000000170000001b0000001f00000023000000

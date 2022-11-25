@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8a591d16ea861614e98355d4fbc24ff6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PersonManager: {fileID: 11400000, guid: 17a7f4adaee74bd42b764b0c0896ade9, type: 2}
+  - IncomeManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

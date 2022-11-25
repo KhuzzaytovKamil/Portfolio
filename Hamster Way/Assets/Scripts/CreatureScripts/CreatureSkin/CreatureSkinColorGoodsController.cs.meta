@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccd82fa11e4410744908354c4529d16f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PriceInScene: {instanceID: 0}
+  - UsedText: {instanceID: 0}
+  - NotUsedText: {instanceID: 0}
+  - CommonSkinsInfo: {fileID: 11400000, guid: 7bc05be88484b8842b8d47e697e4f969, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3a735a277b359e419f9d95de707db72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TheFirstRotationPipe: {instanceID: 0}
+  - TheSecondRotationPipe: {instanceID: 0}
+  - ButtonPrefab: {fileID: 594290714742606413, guid: 98bbf4c05bb12564a84a26d25b459150, type: 3}
+  - MainParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

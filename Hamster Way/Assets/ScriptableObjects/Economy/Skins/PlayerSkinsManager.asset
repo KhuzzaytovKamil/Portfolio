@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d537b562641711a48818b4eefe36948b, type: 3}
+  m_Name: PlayerSkinsManager
+  m_EditorClassIdentifier: 
+  HungerForMiddleStatus: 0.4
+  HungerForSadStatus: 0.6
+  HungerForAngryStatus: 0.9
+  ExtraHungerInSecond: 0.000015
+  StandardAnimationTimeBetweenFramesInSecond: 0.3
+  FunAnimationTimeBetweenFramesInSecond: 0.3
+  MiddleAnimationTimeBetweenFramesInSecond: 0.3
+  SadAnimationTimeBetweenFramesInSecond: 0.3
+  AngryAnimationTimeBetweenFramesInSecond: 0.3
+  CryAnimationTimeBetweenFramesInSecond: 0.3
+  DepressedAnimationTimeBetweenFramesInSecond: 0.3
+  HandAnimationTimeBetweenFramesInSecond: 0.3
+  SleepAnimationTimeBetweenFramesInSecond: 0.3
+  LunchAnimationTimeBetweenFramesInSecond: 0.3
+  SkinNumber: 4
+  SkinPrice: 000000002c0100008403000008070000
+  SkinInPipe:
+  - {fileID: 21300000, guid: 8f79b33b904e49c4dac7a9e98bc27d3b, type: 3}
+  - {fileID: 21300000, guid: 056854fcafc2afa46ba5bdb32c5bd04e, type: 3}
+  - {fileID: 21300000, guid: a6cfa416ee2aa5743b92a9824905d2e2, type: 3}
+  - {fileID: 21300000, guid: dc95ac715cd13bb4abe923f7d6e9c334, type: 3}
+  SkinStandard:
+  - {fileID: 21300000, guid: baf172a84340a2c449e3bc3cd7304a12, type: 3}
+  - {fileID: 21300000, guid: 2647a81bf311c024bb921e125647db8e, type: 3}
+  - {fileID: 21300000, guid: 95bfa41dab4390144bfe1b90bbbd10b3, type: 3}
+  - {fileID: 21300000, guid: 372a2c02a8368654e8ee4beee0fb06ae, type: 3}
+  SkinClosingEye:
+  - {fileID: 21300000, guid: 176f9da063d213741bb653ff9b43c449, type: 3}
+  - {fileID: 21300000, guid: 9aad368c6651dfb4e973b2e6c0045c6a, type: 3}
+  - {fileID: 21300000, guid: d4f5927b7a6592b4ca39ce6dea597159, type: 3}
+  - {fileID: 21300000, guid: d817cbbf8f4264d43affc4d26dabf929, type: 3}
+  SkinFun_1:
+  - {fileID: 21300000, guid: 0b2e76489ab677c41a3a8664c08e3f18, type: 3}
+  - {fileID: 21300000, guid: bca9330d13cd6a341958ff0ad332ff65, type: 3}
+  - {fileID: 21300000, guid: cc8da85002eec03408af72527e5086e9, type: 3}
+  - {fileID: 21300000, guid: 37357ba37bbbc7a44b0a2c391dc20e50, type: 3}
+  SkinFun_2:
+  - {fileID: 21300000, guid: 969b246aca67ea04e8ef145b7fc12f75, type: 3}
+  - {fileID: 21300000, guid: b1a2d5e1001341342823c327a1954a4c, type: 3}
+  - {fileID: 21300000, guid: b71518d8eb7fd0f44b3e28bda63e88e5, type: 3}
+  - {fileID: 21300000, guid: 000f23609e4805245b6f79120367f6a6, type: 3}
+  SkinFun_3:
+  - {fileID: 21300000, guid: 0e60cd4c877b99747a8acaa9868c1875, type: 3}
+  - {fileID: 21300000, guid: fe081ab49f25c964398632c3d5c4423a, type: 3}
+  - {fileID: 21300000, guid: 7503eb0d155ecc543a59e2a1ea5737f4, type: 3}
+  - {fileID: 21300000, guid: 379819843f1698d41bd63696498e1a9c, type: 3}
+  SkinFun_4:
+  - {fileID: 21300000, guid: 48ebd16f83ef13f44b046f3454ab6347, type: 3}
+  - {fileID: 21300000, guid: a8442ec1c69c8e14a8e1785bab17fc2e, type: 3}
+  - {fileID: 21300000, guid: 3e211b3a66b4440499ec9a16c579b449, type: 3}
+  - {fileID: 21300000, guid: 1555f787c633e3645a2b8ad0621482eb, type: 3}
+  SkinFun_5:
+  - {fileID: 21300000, guid: 6b6a6e1dfda8904418ea240f28440a74, type: 3}
+  - {fileID: 21300000, guid: d8d364a1bf79ef343985b727ad54fc83, type: 3}
+  - {fileID: 21300000, guid: 69ec1680b5803fa4c886fb2aab03931d, type: 3}
+  - {fileID: 21300000, guid: 243233e430d7dc848ae49200dc43ae0e, type: 3}
+  SkinMiddle_1:
+  - {fileID: 21300000, guid: 197fd0c8a81b1134da5b5cf9df6a9d68, type: 3}
+  - {fileID: 21300000, guid: 5266d5e15c2cea04486b939690ae0822, type: 3}
+  - {fileID: 21300000, guid: 257480d03aa7ba14990affa1c752a597, type: 3}
+  - {fileID: 21300000, guid: 74719f21c87a7cd43a57c1568bad7200, type: 3}
+  SkinMiddle_2:
+  - {fileID: 21300000, guid: a6cde9526af31824d8a085909a21ecb5, type: 3}
+  - {fileID: 21300000, guid: 20ebe2a2cc6f1a74b8f12e355a2dbf6d, type: 3}
+  - {fileID: 21300000, guid: 0f16010d2264c054eaf7464e42482d24, type: 3}
+  - {fileID: 21300000, guid: 563a2b3569af21a4bbb38faf5889c17a, type: 3}
+  SkinMiddle_3:
+  - {fileID: 21300000, guid: c1632e804f997e7458857bc39db1ae83, type: 3}
+  - {fileID: 21300000, guid: 415b5dc6305e40f449d6156c46dd9bcf, type: 3}
+  - {fileID: 21300000, guid: 1ef98f528c085a34d8e2e4dccba6af6f, type: 3}
+  - {fileID: 21300000, guid: fe533492048c14e42a2d900463e9d77d, type: 3}
+  SkinMiddle_4:
+  - {fileID: 21300000, guid: 7bb92d326168a054292039118ce831cf, type: 3}
+  - {fileID: 21300000, guid: 57107493d7c5bd044bcdeffe7498ff4c, type: 3}
+  - {fileID: 21300000, guid: 5251d6cbe3e86994085f306710bd7a15, type: 3}
+  - {fileID: 21300000, guid: 2e5babe9355b68e439d47d53a54436c3, type: 3}
+  SkinMiddle_5:
+  - {fileID: 21300000, guid: 64475d6f4108af6428835f97a055bdd1, type: 3}
+  - {fileID: 21300000, guid: e3cb1aea170b65a47b89b652af6103d9, type: 3}
+  - {fileID: 21300000, guid: 954d7d7664f239744aad27021d03c45b, type: 3}
+  - {fileID: 21300000, guid: aa171ac339f24b84d9226cc254cc3f5f, type: 3}
+  SkinSad_1:
+  - {fileID: 21300000, guid: 49a780f01834a4848819ba51489c851e, type: 3}
+  - {fileID: 21300000, guid: fceeaa75dc3b8a74a8d3ec521562fb0c, type: 3}
+  - {fileID: 21300000, guid: cac607a8dd703594b847c45a7d61de04, type: 3}
+  - {fileID: 21300000, guid: 44f47f1561ba7104b91a6e20d73babab, type: 3}
+  SkinSad_2:
+  - {fileID: 21300000, guid: 10c3eabecfaa50c4191bd886186f758b, type: 3}
+  - {fileID: 21300000, guid: 3b6d25f1c7be9f148815b11f23494ea8, type: 3}
+  - {fileID: 21300000, guid: b303ddbc0debb5440baa48b35d6bdb15, type: 3}
+  - {fileID: 21300000, guid: 8344b8434189f2e4cab1fe8cf01b5189, type: 3}
+  SkinSad_3:
+  - {fileID: 21300000, guid: 9ba59ed1291787448bd959dd51b7744f, type: 3}
+  - {fileID: 21300000, guid: a617cf63d0d33c74b8b8665a3fa0a5af, type: 3}
+  - {fileID: 21300000, guid: 553a13bd6fc0e964a96f44299aeae850, type: 3}
+  - {fileID: 21300000, guid: 29bf1354cf799334baece0b813a3acd2, type: 3}
+  SkinSad_4:
+  - {fileID: 21300000, guid: e70c4e87050e3c04eb26fadef93b3da6, type: 3}
+  - {fileID: 21300000, guid: 3c8be5ecae32e324989919404d0fe466, type: 3}
+  - {fileID: 21300000, guid: b15c27ec5d6bfda44b251e7cabb3ba90, type: 3}
+  - {fileID: 21300000, guid: 5d1fd1b2e218f34498fa6fbaa890cb1d, type: 3}
+  SkinSad_5:
+  - {fileID: 21300000, guid: 8568f64d79848364d9f6701c7c90c66d, type: 3}
+  - {fileID: 21300000, guid: 3c38316f2965e8f4fac3d46ab6bc5406, type: 3}
+  - {fileID: 21300000, guid: e86b5cdb660ec894ea3eec49687bd725, type: 3}
+  - {fileID: 21300000, guid: 7f69ce0b711b6a64fb90090248a788e4, type: 3}
+  SkinAngry_1:
+  - {fileID: 21300000, guid: e57bac8ee48f34245a689a436f1c46a5, type: 3}
+  - {fileID: 21300000, guid: 580c2c0572e02ac4388c5377799734bf, type: 3}
+  - {fileID: 21300000, guid: 62164c6b9bbf1994cb588b15eb0a4953, type: 3}
+  - {fileID: 21300000, guid: bb6e3e1a4e6fc3c4c80a53f2db91fb80, type: 3}
+  SkinAngry_2:
+  - {fileID: 21300000, guid: 285e469a838fdd64faecf79872906233, type: 3}
+  - {fileID: 21300000, guid: 9853a0344130ce140926c654fb7920f3, type: 3}
+  - {fileID: 21300000, guid: 981302727f7852648b5d22b42aa4643a, type: 3}
+  - {fileID: 21300000, guid: 6d06764d0701d6646ac662758c1e2230, type: 3}
+  SkinAngry_3:
+  - {fileID: 21300000, guid: 70d9061253c652c4b879c9ba3975d286, type: 3}
+  - {fileID: 21300000, guid: 014b77656a9f8f54c99793d94aa62644, type: 3}
+  - {fileID: 21300000, guid: 3db419561d8201c44a972fac6766e14a, type: 3}
+  - {fileID: 21300000, guid: a46c9724230bbdb40b69710a32773dd1, type: 3}
+  SkinCry_1:
+  - {fileID: 21300000, guid: 0fe547e53a99574488b7bf4d181d7d43, type: 3}
+  - {fileID: 21300000, guid: e7c3caba0af76c248af49e1f4e9a5099, type: 3}
+  - {fileID: 21300000, guid: 56d56f7937a84d94e942fa8a682b8b5d, type: 3}
+  - {fileID: 21300000, guid: e35abbf0791d7fb4fbdca2db090025e9, type: 3}
+  SkinCry_2:
+  - {fileID: 21300000, guid: c21b826f5470e074b914d4d2f48c15e5, type: 3}
+  - {fileID: 21300000, guid: fbbf5fb293083d843970915f76791746, type: 3}
+  - {fileID: 21300000, guid: 79e8d28d364306146bfe2a7fac95a25b, type: 3}
+  - {fileID: 21300000, guid: fcd23e0d6f4a3104b958f0c91607b3b5, type: 3}
+  SkinCry_3:
+  - {fileID: 21300000, guid: 8529ba4a5834af145b7fdf4d3d631317, type: 3}
+  - {fileID: 21300000, guid: 396e7c1f06ca0574f8e56e134130331c, type: 3}
+  - {fileID: 21300000, guid: a1efdeaf5fe7de24a88415dc9cbe2f90, type: 3}
+  - {fileID: 21300000, guid: f32f1518d4e91ab46861ff566a296abe, type: 3}
+  SkinDepressed_1:
+  - {fileID: 21300000, guid: 1298a0103d65bfd4aa0630a19813380c, type: 3}
+  - {fileID: 21300000, guid: 872b602363a2a1e46bc44b23a9f2d84f, type: 3}
+  - {fileID: 21300000, guid: 479bb29d2f51c2c4f8df19f7b8d99412, type: 3}
+  - {fileID: 21300000, guid: 70658ef5a0c69b5408d98e4dc9f4628b, type: 3}
+  SkinDepressed_2:
+  - {fileID: 21300000, guid: 3faed281a0c1a5a48a11fd268859424d, type: 3}
+  - {fileID: 21300000, guid: 9b4d9c1d78169944486082917815d04c, type: 3}
+  - {fileID: 21300000, guid: 82582fa47966d074d878774a8a04d102, type: 3}
+  - {fileID: 21300000, guid: 7e27fa2bdf422a44da842bee81da456c, type: 3}
+  SkinHand_1:
+  - {fileID: 21300000, guid: 574abcd0799612542b7c51143b411651, type: 3}
+  - {fileID: 21300000, guid: b96b84c1a1d99ee43b026197933308cb, type: 3}
+  - {fileID: 21300000, guid: ab05ad363dcebce448de2d711a3e1623, type: 3}
+  - {fileID: 21300000, guid: 76746891d82e06647894f145bb98cb9e, type: 3}
+  SkinHand_2:
+  - {fileID: 21300000, guid: bda3f2fb44576454ebe650b053bfb732, type: 3}
+  - {fileID: 21300000, guid: de36b15fdf779c24aacd92cdc0a2f9d3, type: 3}
+  - {fileID: 21300000, guid: db1ced1836b82004ca627eb55858c40a, type: 3}
+  - {fileID: 21300000, guid: 5724ef99c9b63594a8a4497ae1525b48, type: 3}
+  SkinSleep_1:
+  - {fileID: 21300000, guid: f881152ee0ee0a242ad004221a1eb8b3, type: 3}
+  - {fileID: 21300000, guid: bb4cc13edd43d4643843922999e499c1, type: 3}
+  - {fileID: 21300000, guid: 8df35efeb738d2e4baf75e38fdbde8fe, type: 3}
+  - {fileID: 21300000, guid: 8f588960a92309a46ac0bc974de329b5, type: 3}
+  SkinSleep_2:
+  - {fileID: 21300000, guid: b5e6b05baadee5043b938e7aba0bb361, type: 3}
+  - {fileID: 21300000, guid: 9a047eb540f18944b80b39466e5a5596, type: 3}
+  - {fileID: 21300000, guid: aa1b9882c30bf0447a134891dd528aaa, type: 3}
+  - {fileID: 21300000, guid: 16d7ec5e7c5586648a4a79ec733355cb, type: 3}
+  SkinSleep_3:
+  - {fileID: 21300000, guid: 1be3f786f6ab01d42a62553a15dba354, type: 3}
+  - {fileID: 21300000, guid: 9c9f3f6394b9a0944ae3379cd5aff9f5, type: 3}
+  - {fileID: 21300000, guid: 3a1e8f56152d34941aeb1c11411d2cb8, type: 3}
+  - {fileID: 21300000, guid: bf014d87eda48f541ae2d5d171bfbdc8, type: 3}
+  SkinLunch_1:
+  - {fileID: 21300000, guid: beeb05e4f60f5de449316956f2c4081a, type: 3}
+  - {fileID: 21300000, guid: 18383ed4c9ff4d94eb4f5a4edb8e6ea1, type: 3}
+  - {fileID: 21300000, guid: ab283a48f4b814345bf8e2072902ed5b, type: 3}
+  - {fileID: 21300000, guid: 4a93e80c4e3d5ba49b6f4a714531664c, type: 3}
+  SkinLunch_2:
+  - {fileID: 21300000, guid: fb434654cc1687f48990faf4ef456ff9, type: 3}
+  - {fileID: 21300000, guid: 19b792b05d663744887d91af6b6ff87b, type: 3}
+  - {fileID: 21300000, guid: 49fe117dab72b94488bc69481bf6886f, type: 3}
+  - {fileID: 21300000, guid: bc74eecca9fe60e41af122fd53107a01, type: 3}
+  SkinLunch_3:
+  - {fileID: 21300000, guid: cbbf9517e1520924587549766474e0fd, type: 3}
+  - {fileID: 21300000, guid: cb8af108a3699304baefa667a8c36e7d, type: 3}
+  - {fileID: 21300000, guid: fd2eba51687666f4085b6254158ef02c, type: 3}
+  - {fileID: 21300000, guid: a962bd1e217ca1940a436ade838be41f, type: 3}
+  SkinLunch_4:
+  - {fileID: 21300000, guid: a0a66535af6884d449971fb00d5413af, type: 3}
+  - {fileID: 21300000, guid: 10cb101cce88cbf4b84e953e8b12f541, type: 3}
+  - {fileID: 21300000, guid: 7704e4a7167d2e741a1301efa334f6cc, type: 3}
+  - {fileID: 21300000, guid: c2f32e128e10d8b43aa32bab7e02baef, type: 3}
+  SkinLunch_5:
+  - {fileID: 21300000, guid: 0b790fc5acb6d1b43bd492da720858c7, type: 3}
+  - {fileID: 21300000, guid: 8e8b0a5bf3cba624da8a46612c0dbce0, type: 3}
+  - {fileID: 21300000, guid: 4027cb12c6c9f5a45baf4c3aaac68041, type: 3}
+  - {fileID: 21300000, guid: f623ae6f9b2a2e44bb27551daac985ab, type: 3}
+  SkinLunch_6:
+  - {fileID: 21300000, guid: 6ffd3a4dd6d3d364681d6283b99e44df, type: 3}
+  - {fileID: 21300000, guid: 65973a8989ea4b14abfd10232678d313, type: 3}
+  - {fileID: 21300000, guid: 5146e22029649044c98e869ec126b013, type: 3}
+  - {fileID: 21300000, guid: a1965e34a30042c4db78a94c03a1e164, type: 3}
+  SkinLunch_7:
+  - {fileID: 21300000, guid: b5ec7ab0a7709944195aa7f0e1e68714, type: 3}
+  - {fileID: 21300000, guid: 6c9ed5b1d35e7e84388a85a0d0ba26b8, type: 3}
+  - {fileID: 21300000, guid: a937cd9862fadfc40a4934493bf2f6b9, type: 3}
+  - {fileID: 21300000, guid: d25e921c1a14d5347b3ec3b7c972678f, type: 3}
+  HandsSkin:
+  - {fileID: 21300000, guid: 3c7bb98387bd1c5489a871e43698f58e, type: 3}
+  - {fileID: 21300000, guid: 12fa2c6db0c183544b6e329bc89db51d, type: 3}
+  - {fileID: 21300000, guid: 39c781a393f2ef44fb4be169e20184c2, type: 3}
+  - {fileID: 21300000, guid: 073999b6b76f1694aaa437e838dc387b, type: 3}

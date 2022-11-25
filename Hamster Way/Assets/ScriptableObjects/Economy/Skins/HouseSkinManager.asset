@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d8bfe49d33fe84dbec4ae5b1d7e6d1, type: 3}
+  m_Name: HouseSkinManager
+  m_EditorClassIdentifier: 
+  SkinNumber: 6
+  ColorForBG:
+  - {r: 0, g: 0.9254902, b: 0.89411765, a: 1}
+  - {r: 0.96862745, g: 0.8509804, b: 0.7254902, a: 1}
+  - {r: 0.9019608, g: 0.81960785, b: 0.77254903, a: 1}
+  - {r: 0.9254902, g: 0.9529412, b: 0.79607844, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.9372549, g: 0.90588236, b: 0.99607843, a: 1}
+  - {r: 0.7843138, g: 0.909804, b: 0.9176471, a: 1}
+  - {r: 0.8470589, g: 0.8352942, b: 0.8745099, a: 1}
+  - {r: 0.82745105, g: 0.82745105, b: 0.8980393, a: 1}
+  SpriteForFG:
+  - {fileID: 21300000, guid: 8ec6aea617d22f8459711d32ea243bda, type: 3}
+  - {fileID: 21300000, guid: ab65fb601e8597449bd05d1c6de44671, type: 3}
+  - {fileID: 21300000, guid: 6b006347c2fdd2f43b213f91f18d35ab, type: 3}
+  - {fileID: 21300000, guid: b24bba594c37f624cb136605e27e4c5c, type: 3}
+  - {fileID: 21300000, guid: 8027df415f516604f9c01bac29a35e7f, type: 3}
+  - {fileID: 21300000, guid: c70cc204104045b449529df422b8ce45, type: 3}
+  - {fileID: 21300000, guid: 0dd4eb9677de2434f91172d9aeaf8e4b, type: 3}
+  - {fileID: 21300000, guid: ed0b6393905334fb6ae2ec581d3a9078, type: 3}
+  - {fileID: 21300000, guid: 7d8e5cdd2eed6464bbd7b695201f62d2, type: 3}
+  Price: 00000000640000002c010000f40100008a02000020030000e80300007e04000046050000
