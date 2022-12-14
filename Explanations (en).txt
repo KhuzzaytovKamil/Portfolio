@@ -2,3 +2,4 @@
 2) Flying tank - 3D platform game. The project has not been completed to a version suitable for publication.
 3) TestTask_1 - test task completed by me for one internship.
 4) Grow Kingdom is an economic strategy, which you can read about here(https://t.me/GameDevUnityRu/6).
+5) MiniGameCamera - a project consisting of four variations of the "Camera" mini-game, where the user needs to take a picture when there is a good focus.
