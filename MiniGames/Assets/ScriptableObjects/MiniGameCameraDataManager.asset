@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32911e8144fd0464a9ba49a03653769b, type: 3}
+  m_Name: MiniGameCameraDataManager
+  m_EditorClassIdentifier: 
+  PhotoTexture2D:
+  - {fileID: 2800000, guid: 54cf7b6b7b1522d4f9837f4ab31d9215, type: 3}
+  - {fileID: 2800000, guid: 358781500b462c54bad4c1c30fecde5d, type: 3}
+  - {fileID: 2800000, guid: 235d4ee62a9d5ea46af00f245e105aa5, type: 3}
+  - {fileID: 2800000, guid: 921a8d06cbc10b0499e1dd2794ce3a90, type: 3}
+  - {fileID: 2800000, guid: 1e28953ba8336a942876fa505cef80bb, type: 3}
+  - {fileID: 2800000, guid: f593db2dc3781e84d87e561652024845, type: 3}
+  - {fileID: 2800000, guid: d746e858aa278c441b6c01f82877caf6, type: 3}
+  PhotosQuality:
+  - You get a great photo.
+  - You get a very good photo.
+  - You get a good photo.
+  - You get a photo of middle quality.
+  - You get a bad photo.
+  - You get a very bad photo.
+  - You get a terrible photo.

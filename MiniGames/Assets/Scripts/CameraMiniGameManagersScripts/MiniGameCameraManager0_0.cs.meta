@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dfaa07dffd09ccb468669fca66ef9e11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MiniGameCameraDataManager: {fileID: 11400000, guid: 40d27c1415f448d458b0f41fd2731fb6, type: 2}
+  - MainGamePhotoImage: {instanceID: 0}
+  - PhotosQualityText: {instanceID: 0}
+  - FinishMiniGameScreen: {instanceID: 0}
+  - ResultsPhoto: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
