@@ -1,5 +1,0 @@
-1) Hamster Way - casual puzzle game. The game is available in the App Store ( https://apps.apple.com/en/app/hamster-way/id1631513894 ). The project was conceived as cross-platform, but was not posted anywhere except the App Store. I was doing code. Other people were responsible for game design and graphics. The development of the project is frozen, most likely forever. Building a project for android - https://drive.google.com/file/d/1V1PDz6t95w3uGmxCQ6ds-cCdoE60ZOrN/view?usp=sharing.
-2) Flying tank - 3D platform game. The project has not been completed to a version suitable for publication.
-3) TestTask_1 - test task completed by me for one internship.
-4) Grow Kingdom is an economic strategy, which you can read about here(https://t.me/GameDevUnityRu/6).
-5) MiniGames - a project consisting of many mini-games that can be added to different projects to diversify the gameplay and increase retention.
